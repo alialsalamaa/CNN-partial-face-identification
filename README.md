@@ -16,7 +16,7 @@ This project focuses on partial face identification, where the goal is to identi
 - Evaluation using accuracy, precision, recall, and F1-score
 - Reproducible training and evaluation pipeline
 
-## Models
+## Model
 
 The repository includes experiments using:
 
